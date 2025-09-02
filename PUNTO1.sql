@@ -2,7 +2,7 @@
 -- PostgreSQL database dump
 --
 
-\restrict Zm5LZzX99gLcxtNdzsZKqpF9mnUVJeKtaI0BhW33Em43k46asaGHa7nJUDPGipf
+\restrict 7HOLaoKwvQdUHidWxRabrSHDRyznKYSxpGVEo6DYDyV79f4wX0lXDriAQSGyf5g
 
 -- Dumped from database version 17.6
 -- Dumped by pg_dump version 17.6
@@ -201,5 +201,5 @@ ALTER TABLE ONLY public."Peliculas"
 -- PostgreSQL database dump complete
 --
 
-\unrestrict Zm5LZzX99gLcxtNdzsZKqpF9mnUVJeKtaI0BhW33Em43k46asaGHa7nJUDPGipf
+\unrestrict 7HOLaoKwvQdUHidWxRabrSHDRyznKYSxpGVEo6DYDyV79f4wX0lXDriAQSGyf5g
 
